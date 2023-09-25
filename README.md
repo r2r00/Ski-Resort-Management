@@ -41,8 +41,11 @@ This application is designed to manage ski lifts and ski runs in a ski resort. T
 Example file format:
 
 T ; S4P; seggiovia; 4
+
 T;S;skilift;1
+
 L;Fraiteve;S4P
+
 L;Baby;S
 
 
